@@ -2,7 +2,10 @@
 - 👀 I’m interested in computer programming, music, soccer, video games and movies.
 - 🌱 I’m currently learning computer graphics and machine learning.
 - 💞️ I’m looking to collaborate on ... A secret 🤭
-- 📫 How to reach me -- This site is enough.
+- 📫 How to reach me -- 
+1. CSDN博客：https://blog.csdn.net/zenny_chen/
+1. 简书地址：https://www.jianshu.com/u/1cc7c6ec2e66
+1. 博客园地址：http://www.cnblogs.com/zenny-chen/
 
 <!---
 zenny-chen/zenny-chen is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
