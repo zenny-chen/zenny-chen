@@ -12,7 +12,7 @@
 
 ## Other websites
 
-- Github Code Spaces: https://github.com/codespaces
+- https://github.com/codespaces
 - https://github.com/features/copilot
 - https://www.cursor.so/
 
