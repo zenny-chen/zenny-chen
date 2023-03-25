@@ -16,6 +16,7 @@
 - https://github.com/features/copilot
 - https://www.cursor.so/
 - https://stability.ai/
+- https://docs.midjourney.com/
 
 <!---
 zenny-chen/zenny-chen is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
