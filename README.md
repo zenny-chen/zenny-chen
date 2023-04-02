@@ -17,6 +17,7 @@
 - https://www.cursor.so/
 - https://stability.ai/
 - https://docs.midjourney.com/
+- https://yiyan.baidu.com
 
 <!---
 zenny-chen/zenny-chen is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
