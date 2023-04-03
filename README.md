@@ -18,6 +18,7 @@
 - https://stability.ai/
 - https://docs.midjourney.com/
 - https://yiyan.baidu.com
+- [Xcas, the Swiss army knife of mathematics](https://xcas.univ-grenoble-alpes.fr/en.html)
 
 <!---
 zenny-chen/zenny-chen is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
