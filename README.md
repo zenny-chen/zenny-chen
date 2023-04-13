@@ -17,6 +17,7 @@
 - https://www.cursor.so/
 - https://stability.ai/
 - https://docs.midjourney.com/
+- https://get.imagica.ai/
 - https://yiyan.baidu.com
 - [Xcas, the Swiss army knife of mathematics](https://xcas.univ-grenoble-alpes.fr/en.html)
 
