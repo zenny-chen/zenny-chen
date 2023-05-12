@@ -17,6 +17,7 @@
 - https://stability.ai/
 - https://docs.midjourney.com/
 - https://get.imagica.ai/
+- https://app.songr.ai/
 - https://yiyan.baidu.com
 - https://xinghuo.xfyun.cn/
 - [百万设计师都在用的AI工具导航](https://hao.uisdc.com/ai/)
