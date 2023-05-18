@@ -16,6 +16,7 @@
 - https://www.cursor.so/
 - https://stability.ai/
 - https://docs.midjourney.com/
+- https://huggingface.co/
 - https://get.imagica.ai/
 - https://app.songr.ai/
 - https://yiyan.baidu.com
