@@ -2,7 +2,9 @@
 - 👀 I’m interested in computer programming, music, soccer, video games and movies.
 - 🌱 I’m currently learning computer graphics and machine learning.
 - 💞️ I’m looking to collaborate on ... A secret 🤭
-- 📫 How to reach me -- 
+- 📫 Published book -- [C语言编程魔法书：基于C11标准 (Chinese Edition) ](https://www.amazon.com/dp/B072J9GMVL/ref=sr_1_1)
+- 📫 Published book -- [OpenCL异构并行计算：原理、机制与优化实践 (高性能计算技术丛书) (Chinese Edition)](https://www.amazon.com/dp/B018JYKFWG/ref=sr_1_1)
+
 1. 今日头条：https://www.toutiao.com/c/user/token/MS4wLjABAAAAkhnbzuSdq-jtXmiVvFzmUy5lpz-3wZnjfIdMs0dLssU/?tab=article
 1. CSDN博客：https://blog.csdn.net/zenny_chen/
 1. 简书地址：https://www.jianshu.com/u/1cc7c6ec2e66
