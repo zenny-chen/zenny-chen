@@ -23,6 +23,8 @@
 - https://app.songr.ai/
 - https://yiyan.baidu.com
 - https://xinghuo.xfyun.cn/
+- https://zenvideo.qq.com/
+- https://17yongai.com/
 - [百万设计师都在用的AI工具导航](https://hao.uisdc.com/ai/)
 - [Xcas, the Swiss army knife of mathematics](https://xcas.univ-grenoble-alpes.fr/en.html)
 - [Fabrice Bellard's Home Page](https://bellard.org/)（包含：[TinyGL : a Small, Free and Fast Subset of OpenGL](https://bellard.org/TinyGL/) 项目）
