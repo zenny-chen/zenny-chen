@@ -22,6 +22,7 @@
 - https://get.imagica.ai/
 - https://app.songr.ai/
 - https://inflection.ai/about
+- https://www.anthropic.com/app-unavailable-in-region
 - https://yiyan.baidu.com
 - https://xinghuo.xfyun.cn/
 - https://zenvideo.qq.com/
