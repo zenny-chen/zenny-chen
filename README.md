@@ -21,6 +21,7 @@
 - https://huggingface.co/
 - https://get.imagica.ai/
 - https://app.songr.ai/
+- https://inflection.ai/about
 - https://yiyan.baidu.com
 - https://xinghuo.xfyun.cn/
 - https://zenvideo.qq.com/
