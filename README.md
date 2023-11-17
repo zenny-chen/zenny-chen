@@ -15,6 +15,7 @@
 
 - https://github.com/codespaces
 - https://github.com/features/copilot
+- chat.openai.com/?model=gpt-4-gizmo
 - https://www.cursor.so/
 - https://stability.ai/
 - https://docs.midjourney.com/
