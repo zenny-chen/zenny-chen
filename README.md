@@ -24,6 +24,7 @@
 - https://app.songr.ai/
 - https://inflection.ai/about
 - https://www.anthropic.com/app-unavailable-in-region
+- https://kimi.moonshot.cn/
 - https://yiyan.baidu.com
 - https://xinghuo.xfyun.cn/
 - https://zenvideo.qq.com/
