@@ -22,6 +22,7 @@
 - https://huggingface.co/
 - https://get.imagica.ai/
 - https://app.songr.ai/
+- https://suno.com/blog
 - https://inflection.ai/about
 - https://www.anthropic.com/app-unavailable-in-region
 - https://kimi.moonshot.cn/
