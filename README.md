@@ -18,6 +18,7 @@
 - https://chat.openai.com/?model=gpt-4-gizmo
 - https://www.cursor.so/
 - https://stability.ai/
+- https://flux1.ai/
 - https://docs.midjourney.com/
 - https://huggingface.co/
 - https://get.imagica.ai/
